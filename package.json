@@ -11,6 +11,7 @@
     "deploy": "gh-pages -d dist -b gh-pages",
     "preview": "vite preview"
   },
+  "homepage": "https://ando.github.io/",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.16",
     "react": "^19.1.1",
